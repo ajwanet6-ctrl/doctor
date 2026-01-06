@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://phenomenal-starship-00c983.netlify.app/sitemap.xml
